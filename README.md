@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/Palks_Studio.png" alt="VS Code Pack - Palks Studio">
+  <img src="docs/images/Palks_Studio.png" alt="Palks Studio">
 </p>
 
 > 🇬🇧 English | [🇫🇷 Français](./README_FR.md)
@@ -12,6 +12,14 @@
 <p align="center">
   <a href="https://palks.gumroad.com/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20on-Gumroad-orange?style=for-the-badge" alt="Download on Gumroad">
+  </a>
+  &nbsp;&nbsp;
+  <a href="http://palks-studio.itch.io" target="_blank">
+    <img src="https://img.shields.io/badge/Available%20on-Itch.io-blue?style=for-the-badge" alt="Available on Itch.io">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ko-fi.com/palksstudio" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20on-Ko%E2%80%93fi-ff5f5f?style=for-the-badge" alt="Buy on Ko-fi">
   </a>
 </p>
 
@@ -127,9 +135,10 @@ The `.mp4` files in this folder (convert_lf.mp4, indent_clean.mp4, etc.) are int
   - before/after examples, demo videos, Discord support  
 
 **Full version available here**
-- Gumroad: https://palks.gumroad.com  
-- Ko-Fi: https://ko-fi.com/palksstudio  
-- Itch.io: http://palks-studio.itch.io
+
+- [Gumroad](https://palks.gumroad.com)  
+- [Itch.io](https://palks-studio.itch.io)  
+- [Ko-fi](https://ko-fi.com/palksstudio)
 
 
 ### Important — Script Behavior (Full Version Only)
@@ -182,5 +191,5 @@ Simplicity, clarity, efficiency.
 - Discord: https://discord.gg/kzrSyThyZ7  
 - Twitter (X): https://x.com/PalksStudio  
 - Itch.io: http://palks-studio.itch.io  
-- Ko-Fi: https://ko-fi.com/palksstudio
+- Ko-fi: https://ko-fi.com/palksstudio
 
