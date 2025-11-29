@@ -137,7 +137,7 @@ The `.mp4` files in this folder (convert_lf.mp4, indent_clean.mp4, etc.) are int
 
   - before/after examples, demo videos, Discord support  
 
-**Full version available here**
+**Full version available here**  
 - Gumroad: https://palks.gumroad.com  
 - Ko-fi: https://ko-fi.com/palksstudio  
 - Itch.io: http://palks-studio.itch.io
@@ -185,8 +185,7 @@ Resale, redistribution or public modification without permission is prohibited.
 Personal and professional use is allowed.
 
 **Palks Studio**
-Creator of useful and self-contained tools: scripts, templates and ready-to-use bases.
-Simplicity, clarity, efficiency.
+Independent creator of useful, autonomous digital tools.
 
 - GitHub: https://github.com/Palks-Studio  
 - Gumroad: https://palks.gumroad.com  
