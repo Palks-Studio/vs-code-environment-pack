@@ -178,7 +178,7 @@ Créateur indépendant d’outils digitaux utiles et autonomes.
 - Gumroad : https://palks.gumroad.com  
 - Itch.io : http://palks-studio.itch.io  
 - Ko-fi : https://ko-fi.com/palksstudio  
-- Twitter (X) : https://x.com/PalksStudio
+- Twitter (X) : https://x.com/Palks_Studio
 
 ---
 
