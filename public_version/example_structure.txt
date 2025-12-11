@@ -19,7 +19,7 @@ VSCode_Formatting_Pack/
 │
 ├── LICENSE.txt                         ← Palks Studio Proprietary License
 ├── INSTALL.md                          ← Installation & usage guide
-├── README_COMMERCIAL.md                ← Product presentation for Gumroad
+├── README_COMMERCIAL.md                ← Commercial product presentation
 │
 └── docs/
     ├── TECHNICAL_README.md             ← Internal notes, maintenance, future versions
