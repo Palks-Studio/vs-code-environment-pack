@@ -29,12 +29,12 @@
 
 Un aperçu léger et **en lecture seule** du Pack de Formatage VS Code par **Palks Studio**.
 
-Cette version Lite fournit un environnement **passif et non destructif**,
-conçu pour présenter la philosophie et la structure de la version complète,
+Cette version Lite fournit un environnement **passif et non destructif**,  
+conçu pour présenter la philosophie et la structure de la version complète,  
 sans modifier aucun fichier.
 
-Aucun formatage.
-Aucun nettoyage.
+Aucun formatage.  
+Aucun nettoyage.  
 Aucune automatisation.
 
 ---
@@ -47,7 +47,7 @@ VSCode_Pack_Formatage/ (Version lite)
 │   ← Documentation publique de la version Lite
 │     (périmètre limité, aucune modification de fichiers)
 │
-├── LICENCE.txt
+├── LICENCE_FR.md
 │   ← Licence propriétaire – Palks Studio
 │
 ├── version_publique/
@@ -97,7 +97,7 @@ Les fichiers `.mp4` de ce dossier (convert_lf.mp4, indent_clean.mp4, etc.) sont 
   - l’affichage des espaces significatifs
 
 - Fournit une **tâche de détection des marges en lecture seule**  
-- Inclut un raccourci clavier minimal pour le confort de navigation  
+- Inclut un raccourci clavier minimal pour le confort de navigation
 
 Cette version est destinée **uniquement à l’évaluation et à la démonstration**.
 
@@ -143,7 +143,7 @@ Cette tâche :
 - Affiche les résultats dans le terminal  
 - **Ne modifie jamais les fichiers**
 
-Elle permet **d’observer** les problèmes de formatage,
+Elle permet **d’observer** les problèmes de formatage,  
 sans chercher à les corriger.
 
 ---
@@ -152,7 +152,7 @@ sans chercher à les corriger.
 
 - `Alt + M` → Afficher / masquer la minimap
 
-Aucun raccourci de réindentation ou de formatage
+Aucun raccourci de réindentation ou de formatage  
 n’est inclus dans cette version Lite.
 
 ---
@@ -186,10 +186,10 @@ La **version Pro** inclut notamment :
   (global / fichier actif / sélection personnalisée)  
 - une documentation complète et des exemples réels d’utilisation
 
-La version Lite est volontairement limitée
+La version Lite est volontairement limitée  
 afin de maintenir une frontière claire et honnête.
 
-Cela garantit une expérience d’évaluation
+Cela garantit une expérience d’évaluation  
 transparente et prévisible.
 
 ---
@@ -204,25 +204,9 @@ transparente et prévisible.
 
 ---
 
-## Crédits et licence
-
-Ce pack est une création originale de **Palks Studio**.
-Toute revente, redistribution ou modification publique sans autorisation préalable est strictement interdite.
-L’usage personnel et professionnel est autorisé.
-
-**Palks Studio**
-Créateur indépendant d’outils digitaux utiles et autonomes.
-
-- GitHub : https://github.com/Palks-Studio  
-- Gumroad : https://palks.gumroad.com  
-- Itch.io : http://palks-studio.itch.io  
-- Ko-fi : https://ko-fi.com/palksstudio  
-- Twitter (X) : https://x.com/Palks_Studio
-
----
-
 ## Signature
 
 **Palks Studio — Version 1.1**  
 Compatible avec Visual Studio Code (Prettier désactivé par défaut).
 
+© Palks Studio — voir LICENSE_FR.md
