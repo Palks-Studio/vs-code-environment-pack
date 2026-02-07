@@ -13,14 +13,6 @@
   <a href="https://palks.gumroad.com/" target="_blank">
     <img src="https://img.shields.io/badge/Télécharger%20sur-Gumroad-orange?style=for-the-badge" alt="Télécharger sur Gumroad">
   </a>
-  &nbsp;&nbsp;
-  <a href="http://palks-studio.itch.io" target="_blank">
-    <img src="https://img.shields.io/badge/Disponible%20sur-Itch.io-blue?style=for-the-badge" alt="Disponible sur Itch.io">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ko-fi.com/palksstudio" target="_blank">
-    <img src="https://img.shields.io/badge/Acheter%20sur-Ko%E2%80%93fi-ff5f5f?style=for-the-badge" alt="Acheter sur Ko-fi">
-  </a>
 </p>
 
 # Pack de Formatage VS Code (Version Lite)
