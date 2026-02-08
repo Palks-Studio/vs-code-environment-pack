@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="docs/images/Palks_Studio.png" alt="Palks Studio" width="600">
+  <img src="docs/images/vscode-formatting-pack.png"
+       alt="VS Code formatting pack — before and after formatting example"
+       width="600">
 </p>
 
 > 🇬🇧 English | [🇫🇷 Français](./README_FR.md)
