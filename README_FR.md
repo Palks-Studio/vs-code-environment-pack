@@ -10,6 +10,9 @@
 ![Python](https://img.shields.io/badge/Python-3.x-yellow.svg)
 ![Plateforme](https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
 ![License](https://img.shields.io/badge/License-LICENSE.md-lightgreen.svg)
+![VS Code](https://img.shields.io/badge/VSCode-Formatting%20Pack-0095b1?style=flat)
+![Local](https://img.shields.io/badge/Setup-Local%20Only-151b1c?style=flat)
+![No Extensions](https://img.shields.io/badge/Dependencies-None-0a5645?style=flat)
 
 <p align="center">
   <a href="https://palks-studio.com">
