@@ -19,6 +19,9 @@
 
 # VSCode – Pack de Formatage (Version 1.1)
 
+> Ce dépôt constitue une présentation technique et une documentation du projet.  
+> Il ne contient pas de code source téléchargeable ni de fichiers de production.
+
 Un environnement de travail **configuré** pour Visual Studio Code.
 
 Ce pack fournit un cadre clair et cohérent pour le formatage, le nettoyage et la normalisation  
@@ -399,7 +402,6 @@ Compatible avec des environnements isolés
 - tasks.json — tâches VS Code pour nettoyage et analyse  
 - launch.json — exécution manuelle des scripts Python  
 - clean.py, convert.py, space.py, backup.py — scripts de maintenance  
-- INSTALL.md — guide d’installation et d’utilisation  
 - docs/ — documentation technique et exemples  
 - LICENCE.md — Conditions d’utilisation et cadre légal
 
