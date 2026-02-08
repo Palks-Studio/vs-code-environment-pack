@@ -9,6 +9,12 @@
 ![Platform](https://img.shields.io/badge/OS-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
 ![License](https://img.shields.io/badge/License-LICENSE.md-lightgreen.svg)
 
+<p align="center">
+  <a href="https://palks-studio.com">
+    <img src="https://img.shields.io/badge/Palks%20Studio-Website-0095b1?style=for-the-badge" />
+  </a>
+</p>
+
 # VS Code – Formatting Pack
 
 A **configured working environment** for Visual Studio Code.
