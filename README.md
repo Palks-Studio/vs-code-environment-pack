@@ -21,7 +21,7 @@
   </a>
 </p>
 
-# VS Code – Environement Pack
+# VS Code – Environment Pack
 
 A **configured working environment** for Visual Studio Code.
 
@@ -56,7 +56,7 @@ while giving full control to the developer.
 ## Pack Structure
 
 ```
-vscode_environement_pack_v1.1/
+vscode_environment_pack_v1.1/
 │
 ├── .vscode/
 │   ├── extensions.json                 → Local disabling of conflicting extensions (Prettier, RunOnSave)
