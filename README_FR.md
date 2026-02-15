@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/vscode-environement-pack.png"
+  <img src="docs/images/vscode-environment-pack.png"
        alt="VS Code pack environnement — exemple avant et après formatage"
        width="1200">
 </p>
