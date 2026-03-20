@@ -34,6 +34,8 @@ mais de proposer un **ensemble d’outils maîtrisés**,
 permettant de garder le contrôle sur la structure, la lisibilité et la cohérence du code,  
 quel que soit le système d’exploitation.
 
+[![Pack environnement VS Code](https://img.shields.io/badge/Pack%20environnement%20VS%20Code-0095b1?style=flat)](https://palks-studio.com/fr/pack-environnement-vscode)
+
 ---
 
 ## Pourquoi ce pack existe
