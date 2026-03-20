@@ -35,6 +35,8 @@ but a **controlled set of tools**
 that lets you keep full control over code structure, readability, and consistency,  
 regardless of the operating system.
 
+[![VS Code Environment Pack](https://img.shields.io/badge/VS%20Code%20Environment%20Pack-0095b1?style=flat)](https://palks-studio.com/en/vscode-environment-pack)
+
 ---
 
 ## Why this environment exists
