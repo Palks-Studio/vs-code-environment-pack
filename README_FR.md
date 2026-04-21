@@ -12,7 +12,7 @@
 ![License](https://img.shields.io/badge/License-LICENSE.md-lightgreen.svg)
 ![VS Code](https://img.shields.io/badge/VSCode-Pack%20Environnement-0095b1?style=flat)
 ![Local](https://img.shields.io/badge/Setup-Local%20Only-151b1c?style=flat)
-![No Extensions](https://img.shields.io/badge/Dependencies-None-0a5645?style=flat)
+![Dependencies](https://img.shields.io/badge/Dependencies-None%20Required-0a5645?style=flat)
 [![Pack environnement VS Code](https://img.shields.io/badge/Pack%20environnement%20VS%20Code-0095b1?style=flat)](https://palks-studio.com/fr/pack-environnement-vscode)
 
 <p align="center">
@@ -53,6 +53,8 @@ Ce pack adopte l’approche inverse :
 L’objectif est de conserver un code stable, lisible et prévisible,  
 tout en laissant le contrôle total au développeur.
 
+Ce pack ne remplace pas des outils existants, il les organise dans un cadre cohérent, stable et prévisible.
+
 ---
 
 ## Structure du pack
@@ -61,39 +63,34 @@ tout en laissant le contrôle total au développeur.
 vscode_pack_environnement_v1.1/
 │
 ├── .vscode/
-│   ├── extensions.json                 → Désactivation locale des extensions conflictuelles (Prettier, Run on Save)
-│   ├── launch.json                     → Exécution rapide du script Python actif
-│   ├── settings.json                   → Réglages complets de VS Code (indentation, LF, UTF-8, confort d’édition)
-│   ├── keybindings.json                → Raccourcis : Alt + M (minimap), Alt + R (réindentation)
-│   └── tasks.json                      → Tâches VS Code (exécutables manuellement) :
-│                                           - Formatage Python + nettoyage des marges
-│                                             (autopep8 + clean.py, fichier actif)
-│                                           - Nettoyage des marges (clean.py — global / fichier actif / sélection personnalisée)
-│                                           - Détection des marges (space.py — analyse seule, lecture seule)
-│                                           - Conversion CRLF → LF (convert.py — global / fichier actif / sélection personnalisée)
+│   ├── settings.json           → Configuration complète de l’éditeur (indentation, encodage, lisibilité)
+│   ├── keybindings.json        → Raccourcis personnalisés (navigation, édition)
+│   ├── tasks.json              → Tâches VS Code pour exécution manuelle des outils
+│   ├── launch.json             → Exécution de scripts dans l’environnement
+│   └── extensions.json         → Gestion locale des extensions
 │
-├── clean.py                            → Nettoyage général des marges et espaces inutiles
-├── convert.py                          → Normalisation des fins de ligne (CRLF → LF)
-├── space.py                            → Analyse des marges inutiles (lecture seule)
-├── backup.py                           → Sauvegarde horodatée du fichier lors de l’enregistrement (Ctrl + S)
-│                                         via la tâche Auto-Backup
+├── scripts/
+│   ├── cleaning.py             → Nettoyage et normalisation des fichiers
+│   ├── conversion.py           → Gestion des formats et encodages
+│   ├── analysis.py             → Analyse des fichiers (lecture seule)
+│   └── backup.py               → Sauvegarde locale des fichiers
 │
-├── LICENCE.md                          → Conditions d’utilisation et cadre légal
+├── LICENCE.md                  → Conditions d’utilisation et cadre légal
 │
 └── docs/
-    ├── README_COMMERCIAL.md            → Présentation du pack et usage public
-    ├── README_TECHNIQUE.md             → Documentation technique et fonctionnement interne
-    ├── INSTALL.md                      → Guide d’installation et d’utilisation
+    ├── README_COMMERCIAL.md    → Présentation du pack et usage public
+    ├── README_TECHNIQUE.md     → Documentation technique et fonctionnement interne
+    ├── INSTALL.md              → Guide d’installation et d’utilisation
     │
     └── exemples/
-        ├── avant.py                    → Fichiers exemples non structurés
-        ├── apres.py                    → Versions propres générées par le pack
-        ├── convert_lf.mp4              → Fichiers CRLF convertis automatiquement en LF
-        ├── indent_clean.mp4            → Correction instantanée des marges et indentations incorrectes
-        ├── indent_python.mp4           → Fichier Python mal indenté corrigé automatiquement
-        ├── backup.mp4                  → Démonstration de la sauvegarde automatique à chaque Ctrl + S
-        │                                 et de la restauration d’un fichier supprimé depuis le dossier de sauvegarde
-        └── space_clean.mp4             → Analyse d’un fichier volontairement cassé (détection des marges, lecture seule)
+        ├── avant.py           → Fichiers exemples non structurés
+        ├── apres.py           → Versions propres générées par le pack
+        ├── convert_lf.mp4     → Fichiers CRLF convertis automatiquement en LF
+        ├── indent_clean.mp4   → Correction instantanée des marges et indentations incorrectes
+        ├── indent_python.mp4  → Fichier Python mal indenté corrigé automatiquement
+        ├── backup.mp4         → Démonstration de la sauvegarde automatique à chaque Ctrl + S
+        │                        et de la restauration d’un fichier supprimé depuis le dossier de sauvegarde
+        └── space_clean.mp4    → Analyse d’un fichier volontairement cassé (détection des marges, lecture seule)
 ```
 
 
@@ -110,7 +107,7 @@ vscode_pack_environnement_v1.1/
   - `Alt + M` → Afficher / masquer la minimap  
 - Rendu lisible et aéré, sans surcharge visuelle inutile  
 - Fonctionne de manière cohérente sur **Windows, macOS et Linux**  
-- Paramétrage soigné d’extensions courantes (ErrorLens, Indent-Rainbow, Auto-Rename-Tag)
+- Paramétrage compatible avec des extensions courantes (facultatives)
 
 ---
 
