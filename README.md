@@ -112,6 +112,11 @@ vscode_environment_pack_v1.1/
 - Consistent behavior across **Windows, macOS, and Linux**  
 - Compatible with common extensions (optional) such as ErrorLens, Indent-Rainbow, Auto-Rename-Tag
 
+If you'd like to see the tools in action, I've recorded a complete demonstration playlist covering every script, task and workflow:
+
+YouTube playlist:
+https://www.youtube.com/watch?v=NZgXd_sHEy4&list=PLR1GDrpaWT2k
+
 ---
 
 ## What’s new in version 1.1
