@@ -109,6 +109,11 @@ vscode_pack_environnement_v1.1/
 - Fonctionne de manière cohérente sur **Windows, macOS et Linux**  
 - Paramétrage compatible avec des extensions courantes (facultatives)
 
+Si vous souhaitez voir les outils en fonctionnement, j'ai réalisé une playlist complète présentant chaque script, chaque tâche et leurs différents cas d'utilisation.
+
+Playlist YouTube :
+https://www.youtube.com/watch?v=NLQ6_ECDD0g&list=PLKpdAqQ9P3Uo
+
 ---
 
 ## Nouveautés de la version 1.1
