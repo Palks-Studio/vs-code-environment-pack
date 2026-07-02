@@ -36,7 +36,7 @@ mais de proposer un **ensemble d’outils maîtrisés**,
 permettant de garder le contrôle sur la structure, la lisibilité et la cohérence du code,  
 quel que soit le système d’exploitation.
 
-Curieux de découvrir l'application complète ? La playlist de démonstration est disponible ici : [Voir la playlist complète de démonstration](https://palks-studio.com/fr/pack-environnement-vscode)
+[Voir la ressource](https://palks-studio.com/fr/pack-environnement-vscode)
 
 ---
 
@@ -126,8 +126,7 @@ vscode_pack_environnement_v1.2/
 
 Si vous souhaitez voir les outils en fonctionnement, j'ai réalisé une playlist complète présentant chaque script, chaque tâche et leurs différents cas d'utilisation.
 
-Playlist YouTube :
-https://www.youtube.com/watch?v=UamM-Mwgrs0&list=PLKpdAqQ9P3Uo
+Curieux de découvrir l'application complète ? La playlist de démonstration est disponible ici : [Voir la playlist complète de démonstration](https://www.youtube.com/watch?v=UamM-Mwgrs0&list=PLKpdAqQ9P3Uo)
 
 ---
 
