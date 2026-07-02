@@ -13,9 +13,9 @@
 ![VS Code](https://img.shields.io/badge/VSCode-Environment%20Pack-0095b1?style=flat)
 ![Local](https://img.shields.io/badge/Setup-Local%20Only-151b1c?style=flat)
 ![Dependencies](https://img.shields.io/badge/Dependencies-None%20Required-0a5645?style=flat)
-[![VS Code Environment Pack](https://img.shields.io/badge/VS%20Code%20Environment%20Pack-0095b1?style=flat)](https://palks-studio.com/en/vscode-environment-pack)
 [![YouTube](https://img.shields.io/badge/YouTube-@Palks__Studio-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Palks_Studio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Palks__Studio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palks-studio/)
+[![VS Code Environment Pack](https://img.shields.io/badge/VS%20Code%20Environment%20Pack-0095b1?style=flat)](https://palks-studio.com/en/vscode-environment-pack)
 
 
 <p align="center">
@@ -37,7 +37,7 @@ but a **controlled set of tools**
 that lets you keep full control over code structure, readability, and consistency,  
 regardless of the operating system.
 
-[![VS Code Environment Pack](https://img.shields.io/badge/VS%20Code%20Environment%20Pack-0095b1?style=flat)](https://palks-studio.com/en/vscode-environment-pack)
+[View the Resource](https://palks-studio.com/en/vscode-environment-pack)
 
 ---
 
@@ -127,8 +127,7 @@ vscode_environment_pack_v1.2/
 
 If you'd like to see the tools in action, I've recorded a complete demonstration playlist covering every script, task and workflow:
 
-YouTube playlist:
-https://www.youtube.com/watch?v=NZgXd_sHEy4&list=PLR1GDrpaWT2k
+Curious to see the full application? The complete demo playlist is available here: [Watch the Complete Demo Playlist](https://www.youtube.com/watch?v=NZgXd_sHEy4&list=PLR1GDrpaWT2k)
 
 ---
 
