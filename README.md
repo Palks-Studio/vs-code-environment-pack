@@ -14,6 +14,8 @@
 ![Local](https://img.shields.io/badge/Setup-Local%20Only-151b1c?style=flat)
 ![Dependencies](https://img.shields.io/badge/Dependencies-None%20Required-0a5645?style=flat)
 [![VS Code Environment Pack](https://img.shields.io/badge/VS%20Code%20Environment%20Pack-0095b1?style=flat)](https://palks-studio.com/en/vscode-environment-pack)
+[![YouTube](https://img.shields.io/badge/YouTube-@Palks__Studio-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Palks_Studio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@Palks__Studio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palks-studio/)
 
 
 <p align="center">
