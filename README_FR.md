@@ -15,6 +15,7 @@
 ![Dependencies](https://img.shields.io/badge/Dependencies-None%20Required-0a5645?style=flat)
 [![YouTube](https://img.shields.io/badge/YouTube-@Palks__Studio-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Palks_Studio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@Palks__Studio-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/palks-studio/)
+[![DEV.to](https://img.shields.io/badge/DEV.to-Technical%20Article-7C3AED?style=flat&logo=devdotto&logoColor=white)](https://dev.to/palks_studio/i-built-a-local-vs-code-environment-that-saves-me-hours-on-every-project-lpc)
 [![Pack environnement VS Code](https://img.shields.io/badge/Pack%20environnement%20VS%20Code-0095b1?style=flat)](https://palks-studio.com/fr/pack-environnement-vscode)
 
 <p align="center">
@@ -56,6 +57,10 @@ L’objectif est de conserver un code stable, lisible et prévisible,
 tout en laissant le contrôle total au développeur.
 
 Ce pack ne remplace pas des outils existants, il les organise dans un cadre cohérent, stable et prévisible.
+
+Pour aller plus loin, un article technique présente la conception de cet environnement VS Code, les scripts Python intégrés et les choix d'organisation permettant de gagner du temps sur chaque projet, tout en conservant le contrôle sur le formatage, la maintenance et la structure du code.
+
+👉 [I Built a Local VS Code Environment That Saves Me Hours on Every Project](https://dev.to/palks_studio/i-built-a-local-vs-code-environment-that-saves-me-hours-on-every-project-lpc) (DEV.to, en anglais)
 
 ---
 
